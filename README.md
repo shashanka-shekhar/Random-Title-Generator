@@ -9,6 +9,8 @@ Dataset :
 
 Dataset contains information about anime like - title_english, title_japanese, source etc.
 
+Shape - (6668 x 33)
+
 Languages and libraries:
 
 This project uses python3, numpy, pandas, nltk, itertools, random in kaggle jupyter notebook environment.
